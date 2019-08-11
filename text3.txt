@@ -1,0 +1,6 @@
+1 apple
+2 banana
+3 orange
+4 cherry
+5 pineapple
+6 watermelon
